@@ -1,2 +1,7 @@
-# qa_api_tests
-Testes de API utilizando Postman.  Inclui: Teste POST (criação de dados) - Validação de status code e estrutura da resposta
+Projeto de estudos em testes de API com Postman.
+
+Objetivo:
+Praticar testes manuais validando respostas, status code e estrutura de dados.
+
+Ferramentas:
+- Postman
